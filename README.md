@@ -7,6 +7,5 @@ and I like to take ideas out of the paper :)
 
 ### My Stack!
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)
 ![Node](https://img.shields.io/static/v1?label=&message=Node&color=68A063&logo=node.js&logoColor=FFFFFF)
-![React](https://img.shields.io/static/v1?label=&message=React&color=61DBFB&logo=react&logoColor=FFFFFF)
+![Ruby](https://img.shields.io/static/v1?label=&message=ruby&color=cf2a27&logo=ruby&logoColor=FFFFFF)
